@@ -1,5 +1,5 @@
 {
-  "name": "gridsome-starter-bootstrap",
+  "name": "lamara-site",
   "scripts": {
     "build": "gridsome build",
     "dev": "gridsome develop",
